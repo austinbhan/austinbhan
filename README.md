@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **austinbhan@outlook.com**
 
-- ⚡ Fun fact: **I can fold a fitted bedsheet. 🛌**
+- ⚡ Fun fact: I can fold a fitted bedsheet. I'm a doctor, but prefer not to use the honorific unless necessary. Astronauts orbiting Earth are actually in perpetual free-fall. 🛌
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
