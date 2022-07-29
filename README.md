@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=austinbhan&show_icons=true&locale=en" alt="austinbhan" /></p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinbhan)](https://github.com/austinbhan/github-readme-stats)
