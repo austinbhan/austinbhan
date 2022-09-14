@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Austin!</h1>
-<h3 align="center">Full-stack developer creating desktop and mobile applications designed for efficiency, legibility and creativity. My training as a classical musician and higher education career has taught the importance of treating challenges as learning opportunities, and the invaluableness of persevering through difficulty. I value unconventional creativity, perpetual learning, and constructive instruction.</h3>
+<h3 align="center">Developer creating desktop and mobile applications designed for efficiency, legibility and creativity. My training as a classical musician and higher education career has taught the importance of treating challenges as learning opportunities, and the invaluableness of persevering through difficulty. I value unconventional creativity, perpetual learning, and constructive instruction.</h3>
 
 - 👨‍💻 See my artwork at: [https://cloud-doodles.netlify.app](https://cloud-doodles.netlify.app)
 
