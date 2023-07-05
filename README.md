@@ -1,7 +1,4 @@
 <h3 align="center">Developer creating desktop and mobile applications designed for efficiency, legibility and creativity. My training as a classical musician and higher education career has taught the importance of treating challenges as learning opportunities, and the invaluableness of persevering through difficulty. I value unconventional creativity, perpetual learning, and constructive instruction.</h3>
-
-- 👨‍💻 See my artwork at: [https://cloud-doodles.netlify.app](https://cloud-doodles.netlify.app)
-
 - 📫 How to reach me: **austinbhan@outlook.com**
 
 - ⚡ Fun fact: I can fold a fitted bedsheet. I'm a doctor, but don't use the honorific unless I have to. The Earth is in perpetual free-fall around the Sun. 🛌
